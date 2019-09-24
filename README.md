@@ -43,6 +43,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Muppets Treasure Island](https://reelgood.com/movie/muppet-treasure-island-1996)
 - [ ] [Homeward Bound](https://reelgood.com/movie/homeward-bound-the-incredible-journey-1993)
 - [ ] [Spider-man: Into the Spider-Verse](https://reelgood.com/movie/spider-man-into-the-spider-verse-2018)
+- [ ] Monster Factory: Fallout 4 [1](https://www.youtube.com/watch?v=_1jGnFt78H8) [2](https://www.youtube.com/watch?v=ujADg0nWqCw) [3](https://www.youtube.com/watch?v=7-n8TZqm9Ic)
 
 ### Blocks
 
